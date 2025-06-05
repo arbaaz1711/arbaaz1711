@@ -41,5 +41,5 @@
 
 <!-- Fun Animation with SVG -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Welcome%20to%20my%20profile!&width=700&height=120" alt="Animated SVG Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Welcome%20to%20my%20profile!&width=700&height=150" alt="Animated SVG Banner"/>
 </p>

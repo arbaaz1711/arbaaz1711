@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+%F0%9F%91%8B+I'm+Arbaaz+Khan!;Frontend+React+Developer;Pixel-perfect+Design+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+%F0%9F%91%8B+I'm+Arbaaz+Khan!;Frontend+React+Developer;Pixel-perfect+Design+Lover" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
@@ -32,9 +35,10 @@
 
 ### 🌈 About Me
 
+- 🚀 MERN Stack Developer: Expert in MongoDB, Express.js, React.js, and Node.js.
 - 🎨 Passionate about pixel-perfect design and CSS art.
-- 🧑‍💻 Always experimenting on CodePen and exploring new frontend trends.
-- 💬 Ask me about React, Redux, Typescript, or CSS wizardry!
+- 🧑‍💻 Always experimenting on CodePen and exploring new frontend and backend trends.
+- 💬 Ask me about React, Redux, Typescript, Node.js, Express.js, MongoDB, or CSS wizardry!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arbaazkhan1711)
 
 ---

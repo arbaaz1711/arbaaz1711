@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <b>Frontend Developer | React.js Expert</b><br>
+  <b>MERN Stack Developer | React.js Expert</b><br>
   <i>Pixel-perfect design enthusiast, making every pixel count!</i>
 </p>
 
